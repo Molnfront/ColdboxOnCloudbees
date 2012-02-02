@@ -2,4 +2,6 @@ This is a simple development reference CB app with Coldbox 3.1.0. Railo 3.3.1 Cl
 
 Url rewrite is configured with tuckey and railo admin is blocked. There is anyway no use in changing settings in the cloud.
 
-Remmeber to change app id in webapp/WEB-INF/cloudbees-web.xml before you deploy.
+Remember to change app id in webapp/WEB-INF/cloudbees-web.xml before you deploy.
+
+To run it localy, install cloudbees SDK. Open a terminal and cd to webapp/ and there you start it with bees run. Open a browser at http://localost:8080/
