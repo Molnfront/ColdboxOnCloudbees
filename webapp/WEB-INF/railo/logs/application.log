@@ -1,0 +1,5 @@
+"Severity","ThreadID","Date","Time","Application","Message"
+"ERROR","web-0","12/01/2011","23:19:17","","the function onApplicationStart has a invalid return value , can't cast Null value to value of type [boolean]"
+"ERROR","web-0","12/01/2011","23:20:57","","No matching Method/Function for SLUGGIFY(string)"
+"ERROR","web-0","12/10/2011","01:38:34","","No matching property [SESSION] found in [string]"
+"ERROR","web-0","02/02/2012","16:07:37","","invalid component definition, can't find coldbox.system.Coldbox"

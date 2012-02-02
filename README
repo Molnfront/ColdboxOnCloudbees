@@ -1,0 +1,5 @@
+This is a simple development reference CB app with Coldbox 3.1.0. Railo 3.3.1 Cloudbees SDK 0.7.4. 
+
+Url rewrite is configured with tuckey and railo admin is blocked. There is anyway no use in changing settings in the cloud.
+
+Remmeber to change app id in webapp/WEB-INF/cloudbees-web.xml before you deploy.
